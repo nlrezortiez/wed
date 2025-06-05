@@ -1,11 +1,3 @@
-// Модальное окно
-$('.open-modal').click(function() {
-    $('#modal').addClass('modal-open')
-})
-document.querySelector('.sm-modal-close').addEventListener('click',function() {
-    document.getElementById('modal').classList.remove('modal-open')
-})
-
 function setMonthCalendar(year, month, day) {
     let monthDays = new Date(year, Number(month) , 0).getDate(),
         monthPrefix = new Date(year, Number(month) - 1, 0).getDay(),
