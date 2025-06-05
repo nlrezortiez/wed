@@ -132,8 +132,9 @@ a {
 }
 
 .sm-cormorantRegular-50,.sm-cormorantRegular-50-30 {
-    font-family: "SMHeadersFont",sans-serif;
+    font-family: "Great Vibes", cursive;
     font-weight: 400;
+    font-style: normal;
     font-size: 40px;
     line-height: 120%;
     text-transform: uppercase;
@@ -161,7 +162,9 @@ a {
 }
 
 .sm-cormorantLight-40-30 {
-    font-family: "SMTextsFont",sans-serif;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
     font-weight: 300;
     font-size: 30px;
     line-height: 120%;
@@ -175,7 +178,9 @@ a {
 }
 
 .sm-cormorantLight-30-20px,.sm-date .sm-cormorantLight-40-30 {
-    font-family: "SMTextsFont",sans-serif
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
 }
 
 .sm-cormorantLight-30-20px {
@@ -197,7 +202,9 @@ a {
 }
 
 .sm-manropeLight-20,.sm-manropeLight-20-18 {
-    font-family: "SMTextsFont",sans-serif;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
     font-weight: 200;
     font-size: 20px;
     line-height: 120%;
@@ -215,7 +222,9 @@ a {
 }
 
 .sm-manropeRegular-20-18 {
-    font-family: "SMTextsFont",sans-serif;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
     font-weight: 500;
     font-size: 20px;
     line-height: 120%;
@@ -229,7 +238,9 @@ a {
 }
 
 .sm-manropeMedium-50px-20 {
-    font-family: "SMTextsFont",sans-serif;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
     font-weight: 400;
     font-size: 50px;
     line-height: 120%;
@@ -243,7 +254,9 @@ a {
 }
 
 .sm-manropeMedium-30px-20 {
-    font-family: "SMTextsFont",sans-serif;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
     font-weight: 400;
     font-size: 30px;
     line-height: 120%;
@@ -257,7 +270,9 @@ a {
 }
 
 .sm-manropeBold-20-18 {
-    font-family: "SMTextsFont",sans-serif;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
     font-size: 20px;
     line-height: 120%;
     color: var(--clr-text)
@@ -281,7 +296,9 @@ a {
 }
 
 .sm-manropeSemiBold-20 {
-    font-family: "SMTextsFont",sans-serif;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
     font-size: 20px;
     line-height: 120%;
     color: var(--clr-text)
@@ -296,7 +313,9 @@ a {
 }
 
 .sm-btn {
-    font-family: "SMTextsFont",sans-serif;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
     font-weight: 200;
     font-size: 20px;
     line-height: 120%;
